@@ -1,0 +1,9 @@
+1. Object interfaces allow you to create code which specifies which methods a class must implement, without having to define how these methods are handled.
+2. All methods declared in an interface must be public, this is nature of an interface.
+3. Can't define properties in interfaces.
+4. Can't define method name in two different interface and call at the same time.
+5. We are able to implements multiple interfaces.
+6. We can't create object of interface.
+7. More than one interface can be implemented in a single class.
+8. One interface can inherit another interface.
+9. An Interface can not extends classes.
